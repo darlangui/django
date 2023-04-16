@@ -71,7 +71,7 @@ cover/
 # Translations
 *.mo
 
-# setup stuff:
+# Django stuff:
 
 # Flask stuff:
 instance/

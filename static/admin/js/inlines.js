@@ -1,6 +1,6 @@
 /*global DateTimeShortcuts, SelectFilter*/
 /**
- * setup admin inlines
+ * Django admin inlines
  *
  * Based on jQuery Formset 1.1
  * @author Stanislaus Madueke (stan DOT madueke AT gmail DOT com)
@@ -10,7 +10,7 @@
  * All rights reserved.
  *
  * Spiced up with Code from Zain Memon's GSoC project 2009
- * and modified for setup by Jannis Leidel, Travis Swicegood and Julien Phalip.
+ * and modified for Django by Jannis Leidel, Travis Swicegood and Julien Phalip.
  *
  * Licensed under the New BSD License
  * See: https://opensource.org/licenses/bsd-license.php
