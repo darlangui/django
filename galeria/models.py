@@ -3,7 +3,7 @@ from datetime import datetime
 class Foto(models.Model):
 
     opcao_categoria = [
-        ("NUBULOSA", "nubulosa"),
+        ("Nebulosa", "nebulosa"),
         ("ESTRELA", "estrela"),
         ("GALAXIA", "galaxia"),
         ("PLANETA", "planeta"),
